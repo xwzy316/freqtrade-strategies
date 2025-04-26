@@ -92,3 +92,4 @@ class CofiBitStrategy(IStrategy):
             'exit_long'] = 1
 
         return dataframe
+
